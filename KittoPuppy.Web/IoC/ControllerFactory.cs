@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace KittoPuppy.Web.IoC
+namespace KP.Web.IoC
 {
     public class ControllerFactory : DefaultControllerFactory
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace KittoPuppy.Web.Controllers
+namespace KP.Web.Controllers
 {
     public class CustomerController : Controller
     {

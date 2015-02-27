@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace KittoPuppy.Web
+namespace KP.Web
 {
     public class RouteConfig
     {

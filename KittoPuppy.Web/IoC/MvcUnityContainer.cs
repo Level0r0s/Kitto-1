@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace KittoPuppy.Web.IoC
+namespace KP.Web.IoC
 {
     public static class MvcUnityContainer
     {
