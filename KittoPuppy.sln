@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KittoPuppy.Web", "KittoPuppy.Web\KittoPuppy.Web.csproj", "{6436FC3F-1020-47E7-AEAF-C594ED87B572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KO.Unit.Tests", "KO.Unit.Tests\KO.Unit.Tests.csproj", "{AFCCDF90-3549-4D67-A65A-97F5F982388D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KP.Unit.Tests", "KO.Unit.Tests\KP.Unit.Tests.csproj", "{AFCCDF90-3549-4D67-A65A-97F5F982388D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Customer", "Customer", "{B604D1D9-B6D9-4A37-91AB-1FB4E312C2C6}"
 EndProject
