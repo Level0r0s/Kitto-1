@@ -17,7 +17,7 @@ namespace KP.Web.Controllers
 
         public ActionResult Index()
         {
-            @ViewBag.Title = _homeService.GetName();
+            @ViewBag.Title = "Home Page";
             return View();
         }
 
